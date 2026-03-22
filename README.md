@@ -187,11 +187,6 @@ This project was developed as a project for Data Science & AI certification, in 
 
 ---
 
-**Note:** 
-- The `SGJobData.csv` file is not included in this repository due to GitHub's file size limitations (100 MB limit).
-- You'll need to provide your own dataset file named `SGJobData.csv` in the same directory as `app.py` when running the Streamlit dashboard.
-- The CSV file should contain columns matching the expected structure (e.g., `title`, `metadata_newPostingDate`, `metadata_originalPostingDate`, `salary_minimum`, `salary_maximum`, `postedCompany_name`, `categories`, etc.).
-
 ## Dashboard Screenshots
 
 ### Tech Hiring Overview
